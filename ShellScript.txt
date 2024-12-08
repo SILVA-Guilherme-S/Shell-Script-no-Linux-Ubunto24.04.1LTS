@@ -1,4 +1,4 @@
-#Caso 1 (python instalado): 
+# Caso 1 (python instalado): 
 
 # Criação do arquivo em um editor de texto (nano)
 
@@ -18,7 +18,7 @@ python3 arquivo.sh
 
 # Fim do Caso 1
 
-Caso 2 (python não instalado):
+# Caso 2 (python não instalado):
 
 # Atualização da lista de pacotes
 
