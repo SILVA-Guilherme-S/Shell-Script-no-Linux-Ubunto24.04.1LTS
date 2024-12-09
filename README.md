@@ -34,4 +34,4 @@
 
 * tornar arquivo executável:
  
-`chmod +x arquivo.sh # tornar arquivo executável`
+`chmod +x arquivo.sh`
