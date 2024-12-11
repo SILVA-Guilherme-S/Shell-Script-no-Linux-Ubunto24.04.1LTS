@@ -1,0 +1,15 @@
+#!/bin/bash
+
+sudo apt update
+sudo apt install python3
+python3 /projeto_ebac/projeto/projeto_linux.sh
+
+# Após salvar o projeto_linux.txt
+
+chmod +x projeto_linux.txt # Tornar o arquivo em executável
+
+chmod u+rw projeto_linux.txt # Define escrita e leitura para o propietário
+
+chmod go-w projeto_linux.txt # Acesso somente a leitura para outros usuários
+
+./projeto_linux.txt # Executa a calculadora
