@@ -35,3 +35,7 @@
 * tornar arquivo executável:
  
 `chmod +x arquivo.sh`
+
+# Código em python <h1>
+
+O código é um sistema de calculadora de renda fixa no prazo de um ano, onde o usuário coloca o valor que deseja investir, a calculadora o retornará como resposta: o valor investido, a renda bruta, a renda líquida, o lucro e a taxa de juros que é fixa (valor > 1000 a taxa reduz).
